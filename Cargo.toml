@@ -1,7 +1,7 @@
 [package]
 name = "tan-analysis"
 description = "Analysis infrastructure for the Tan language"
-version = "0.7.0"
+version = "0.8.0"
 license = "Apache-2.0"
 repository = "https://github.com/tanlang-org/tan-analysis"
 keywords = ["language", "analysis", "development"]
@@ -9,4 +9,4 @@ authors = ["Georgios Moschovitis <gmosx@reizu.org>"]
 edition = "2021"
 
 [dependencies]
-tan = { path = "../tan", version = "0.6" }
+tan = { path = "../tan", version = "0.8" }
